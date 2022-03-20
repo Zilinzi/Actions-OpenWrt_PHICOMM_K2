@@ -307,6 +307,7 @@ jobs:
         # CONFIG_PACKAGE_luci-app-wrtbwmon is not set
         # CONFIG_PACKAGE_luci-app-xlnetacc is not set
         # CONFIG_PACKAGE_luci-app-zerotier is not set
+        CONFIG_PACKAGE_luci-app-zerotier=y
         EOF
         # LuCI主题:
         # cat >> .config <<EOF
